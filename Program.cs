@@ -29,7 +29,7 @@ namespace Coinflip
             } 
             else
             {
-                 Console.WriteLine("The coin flip was Heads, you lose!");
+                 Console.WriteLine("The coin Flip was Heads, you lose!");
 
                 
             }
