@@ -1,0 +1,11 @@
+/Users/loveta1/Desktop/Projects/Coinflip/bin/Debug/netcoreapp2.1/Coinflip.deps.json
+/Users/loveta1/Desktop/Projects/Coinflip/bin/Debug/netcoreapp2.1/Coinflip.runtimeconfig.json
+/Users/loveta1/Desktop/Projects/Coinflip/bin/Debug/netcoreapp2.1/Coinflip.runtimeconfig.dev.json
+/Users/loveta1/Desktop/Projects/Coinflip/bin/Debug/netcoreapp2.1/Coinflip.dll
+/Users/loveta1/Desktop/Projects/Coinflip/bin/Debug/netcoreapp2.1/Coinflip.pdb
+/Users/loveta1/Desktop/Projects/Coinflip/obj/Debug/netcoreapp2.1/Coinflip.csprojAssemblyReference.cache
+/Users/loveta1/Desktop/Projects/Coinflip/obj/Debug/netcoreapp2.1/Coinflip.csproj.CoreCompileInputs.cache
+/Users/loveta1/Desktop/Projects/Coinflip/obj/Debug/netcoreapp2.1/Coinflip.AssemblyInfoInputs.cache
+/Users/loveta1/Desktop/Projects/Coinflip/obj/Debug/netcoreapp2.1/Coinflip.AssemblyInfo.cs
+/Users/loveta1/Desktop/Projects/Coinflip/obj/Debug/netcoreapp2.1/Coinflip.dll
+/Users/loveta1/Desktop/Projects/Coinflip/obj/Debug/netcoreapp2.1/Coinflip.pdb
